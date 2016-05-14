@@ -1,0 +1,30 @@
+body {
+	background-color: #ffffe6;
+}
+
+.mycontainer {
+	width: 1024px;
+	/*height: 768px;*/
+	height: auto;
+	/*border: 1px solid #abc;*/
+	padding: 0;
+	margin: 0 auto;
+}
+
+.myheader .banner {
+	width: 1024px;
+	height: 230px;
+}
+
+.content {
+	/*position: relative;*/
+}
+
+.item {
+	width: 250px;
+	height: 250px;
+}
+/*.item img {
+	width: 150px;
+	height: 150px;
+}*/
